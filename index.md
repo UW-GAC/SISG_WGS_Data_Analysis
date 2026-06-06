@@ -1,4 +1,4 @@
-This site contains course materials for SISG Module QG4: WGS Data Analysis, June 11-13, 2025. 
+This site contains course materials for SISG Module QG4: WGS Data Analysis, June 10-12, 2026. 
 
 - **Instructors:** [Laura Raffield](https://www.med.unc.edu/genetics/directory/laura-raffield-phd/) and [Matthew Conomos](https://www.biostat.washington.edu/people/matt-conomos)
 
