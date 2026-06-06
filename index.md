@@ -59,11 +59,11 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 
 | Topic | Materials |
 | --- | --- |
-| Leveraging Multi-Ancestry Data | [Lecture Slides](https://drive.google.com/file/d/1pBSa-3Uxli6sAETwpGwKyQhvgnmA8zrS/view?usp=drive_link) |
+| Leveraging Multi-Ancestry Data | [Lecture Slides](https://drive.google.com/file/d/1aYCYK0gFjNJuZfjq8rOWsNvl2CFV_tsu/view?usp=drive_link) |
 | LD Exercise | [.pdf](https://drive.google.com/file/d/1ezSde3iCuXHgyHxty7QLlgZOteuKsoUk/view?usp=drive_link) \| [_NEJM_ 2020](https://drive.google.com/file/d/1P36sRyq1yXVfdfg2DR309ODGYlBRT_t-/view?usp=drive_link) \| [_Nature_ 2021](https://drive.google.com/file/d/1K8JTEv9_wublRO_yWeTOJ_2Lim2auKKP/view?usp=drive_link)  \| [KEY](https://drive.google.com/file/d/1t8rfyVAtiivfQ8aLL0oxMi0-3enyzNfA/view?usp=drive_link) |
 | TOPMed Telomere Length GWAS | [Slides](https://docs.google.com/presentation/d/1XJAFuM5tFfX1EylWkUZwpt5Y4Wd6-df47I6golrek-s/preview?slide=id.g336ccf40533_0_0) |
 | Locus Zoom and Conditional Analysis Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/03_conditional_analysis.html) |
-| Variant Annotation | [Lecture Slides](https://drive.google.com/file/d/1-evjds3ROf_O5CV2clELZEZoQoLqAj8u/view?usp=drive_link) |
+| Variant Annotation | [Lecture Slides](https://drive.google.com/file/d/1gthJmVkpsh1ANaJH8xZoir7pqITKHRjo/view?usp=drive_link) |
 | UCSC Genome Browser and FAVOR Tutorial | [.pdf](https://drive.google.com/file/d/1nHgPoWNFy8ok20mUO99boYSETCCf-ond/view?usp=drive_link) \| [chr16 SNPS](https://drive.google.com/file/d/1kVf1Jj6tBPC24N19DRgSE5BVAQqj9FPX/view?usp=drive_link) \| [KEY](https://drive.google.com/file/d/1juKziK-PhKjvSyFjl_sajxILo6p-XYpi/view?usp=drive_link) |
 | Annotation Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/04_annotation_explorer.html) |
 | _5:00pm-6:00pm_: Tutorial Open Q&A Session | |
@@ -76,7 +76,7 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 | Multi-Variant Association Tests Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/05_aggregate_tests.html) |
 | STAAR | [Lecture Slides](https://drive.google.com/file/d/1hZ-WvuK5hJQO-JZR39ONGYAvIdkDTgoF/view?usp=drive_link) | 
 | STAAR Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_2025/blob/main/06_STAAR.html) |
-| Recent Findings and Resources for WGS Analysis | [Lecture Slides](https://drive.google.com/file/d/1ibF9-5gCFJeGlLuYqrq1xfpRUX-ufAeV/view?usp=drive_link) |
+| Recent Findings and Resources for WGS Analysis | [Lecture Slides](https://drive.google.com/file/d/1RFvUVNFXIE3J1BtKUT6KpNORA09qhNGf/view?usp=drive_link) |
 | Open Q&A | |
 
 ## R packages used
