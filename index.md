@@ -39,10 +39,11 @@ All of the R code and data can also be downloaded from the [github repository](h
 
 ## Course Schedule and Materials
 
-The exact timing of the schedule is subject to change, depending on the amount of discussion we have in class. <br>
-Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is daily from 12:00pm-1:30pm.
+We strongly encourage everyone to ask questions and engage in the discussion in class. Therefore, the exact timing of the schedule is subject to change, depending on the amount of time we end up spending on each topic. <br>
+- Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm
+- Lunch break is daily from 12:00pm-1:30pm.
 
-**Wednesday, June 10th**
+**Wednesday (half-day)**
 
 | Topic | Materials |
 | --- | --- |
@@ -55,7 +56,7 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 | _Extra_: GWAS: Advanced Model Extenstions Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/02.2_advanced_GWAS.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/02.2_advanced_GWAS.html) |
 | _Extra_: GENESIS Model Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/02.3_GENESIS_model_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/02.3_GENESIS_model_explorer.html)
 
-**Thursday, June 11th**
+**Thursday**
 
 | Topic | Materials |
 | --- | --- |
@@ -68,7 +69,7 @@ Coffee breaks are daily from 10:00am-10:30am and 3:00pm-3:30pm. Lunch break is d
 | Annotation Explorer Tutorial | [.Rmd](https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/04_annotation_explorer.Rmd) \| [.html](https://htmlpreview.github.io/?https://github.com/UW-GAC/SISG_WGS_Data_Analysis/blob/main/04_annotation_explorer.html) |
 | _5:00pm-6:00pm_: Tutorial Open Q&A Session | |
 
-**Friday, June 12th**
+**Friday**
 
 | Topic | Materials |
 | --- | --- |
@@ -96,6 +97,6 @@ A detailed tutorial and relevant R scripts for STAAR pipeline are available at [
 
 If you are new to R, you might find the following material helpful:
 
-- [Introduction to R](http://faculty.washington.edu/kenrice/rintro/) materials from SISG Module 3
+- [Introduction to R](http://faculty.washington.edu/kenrice/rintro/) materials
 - Graphics with [ggplot2](https://ggplot2.tidyverse.org/)
 - Data manipulation with [dplyr](http://dplyr.tidyverse.org/)
